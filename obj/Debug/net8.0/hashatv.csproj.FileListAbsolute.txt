@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\hash\hashatv\bin\Debug\net8.0\hashatv.exe
+C:\Users\RL\desktop\hash\hashatv\bin\Debug\net8.0\hashatv.deps.json
+C:\Users\RL\desktop\hash\hashatv\bin\Debug\net8.0\hashatv.runtimeconfig.json
+C:\Users\RL\desktop\hash\hashatv\bin\Debug\net8.0\hashatv.dll
+C:\Users\RL\desktop\hash\hashatv\bin\Debug\net8.0\hashatv.pdb
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\hashatv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\hashatv.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\hashatv.AssemblyInfo.cs
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\hashatv.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\hashatv.dll
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\refint\hashatv.dll
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\hashatv.pdb
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\hashatv.genruntimeconfig.cache
+C:\Users\RL\desktop\hash\hashatv\obj\Debug\net8.0\ref\hashatv.dll
